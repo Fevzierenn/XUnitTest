@@ -44,3 +44,11 @@ Unit tests cover all the edge cases using `xUnit` and are designed to follow bes
 ---
 
 ## 📂 Project Structure
+
+QuadraticSolver/
+├── QuadraticSolver/ # Main project (Solver logic)
+│ └── Solver.cs
+├── QuadraticSolver.Tests/ # xUnit test project
+│ └── SolverTests.cs
+├── README.md
+└── QuadraticSolver.sln # Solution file
