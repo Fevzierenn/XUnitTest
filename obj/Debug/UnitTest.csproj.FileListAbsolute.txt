@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\GR1_UnitTest_FevziErenCicek\UnitTest\bin\Debug\UnitTest.exe
+C:\Users\ASUS\Desktop\GR1_UnitTest_FevziErenCicek\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\ASUS\Desktop\GR1_UnitTest_FevziErenCicek\UnitTest\obj\Debug\UnitTest.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\GR1_UnitTest_FevziErenCicek\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\GR1_UnitTest_FevziErenCicek\UnitTest\obj\Debug\UnitTest.exe
+C:\Users\ASUS\Desktop\GR1_UnitTest_FevziErenCicek\UnitTest\obj\Debug\UnitTest.pdb
